@@ -1,1 +1,7 @@
-
+payload:
+ # - DOMAIN-SUFFIX,hdhive.com #影巢
+  - DOMAIN-SUFFIX,qichiyu.com #一个博主的网站
+  - DOMAIN-SUFFIX,d.vkr.me #浮引
+  - DOMAIN-SUFFIX,re0.me #REO影视
+  - DOMAIN-SUFFIX,huangguoai.com #黄果AI 
+  - DOMAIN-SUFFIX,music.gdstudio.xyz #GD音乐
