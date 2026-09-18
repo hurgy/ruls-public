@@ -1,5 +1,5 @@
-HOST-SUFFIX,qichiyu.com #一个博主的网站
-HOST-SUFFIX,d.vkr.me #浮引
-HOST-SUFFIX,re0.me #REO影视
-HOST-SUFFIX,huangguoai.com #黄果AI 
-HOST-SUFFIX,music.gdstudio.xyz #GD音乐
+HOST-SUFFIX,qichiyu.com,PPROXY #一个博主的网站
+HOST-SUFFIX,d.vkr.me,PPROXY #浮引
+HOST-SUFFIX,re0.me,PPROXY #REO影视
+HOST-SUFFIX,huangguoai.com,PPROXY #黄果AI 
+HOST-SUFFIX,music.gdstudio.xyz,PPROXY #GD音乐
