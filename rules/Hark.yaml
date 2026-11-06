@@ -1,0 +1,6 @@
+# Hark Pro 分流规则
+# 更新时间：2026-11-05
+# 用途：强制 Hark 相关域名走代理
+
+payload:
+  - DOMAIN-SUFFIX,hark.com
