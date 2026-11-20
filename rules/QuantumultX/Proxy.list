@@ -1,8 +1,8 @@
-HOST-SUFFIX,qichiyu.com #一个博主的网站
-HOST-SUFFIX,d.vkr.me #浮引
-HOST-SUFFIX,re0.me #REO影视
-HOST-SUFFIX,music.gdstudio.xyz #GD音乐
-HOST-SUFFIX,良心云.com #良心云
-HOST-SUFFIX,kitty.fo #机场
-HOST-SUFFIX,yfamilys.com #规则
-HOST-SUFFIX,tgtodrive.top  #网盘整理
+host-suffix, qichiyu.com          # 一个博主的网站
+host-suffix, d.vkr.me             # 浮引
+host-suffix, re0.me               # REO影视
+host-suffix, music.gdstudio.xyz   # GD音乐
+host-suffix, 良心云.com           # 良心云
+host-suffix, kitty.fo             # 机场
+host-suffix, yfamilys.com         # 规则
+host-suffix, tgtodrive.top        # 网盘整理
