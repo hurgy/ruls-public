@@ -1,8 +1,9 @@
-host-suffix, qichiyu.com          # 一个博主的网站
-host-suffix, d.vkr.me             # 浮引
-host-suffix, re0.me               # REO影视
-host-suffix, music.gdstudio.xyz   # GD音乐
-host-suffix, 良心云.com           # 良心云
-host-suffix, kitty.fo             # 机场
-host-suffix, yfamilys.com         # 规则
-host-suffix, tgtodrive.top        # 网盘整理
+# 自定义域名
+host-suffix, qichiyu.com, proxy          # 一个博主的网站
+host-suffix, d.vkr.me, proxy             # 浮引
+host-suffix, re0.me, proxy               # REO影视
+host-suffix, music.gdstudio.xyz, proxy   # GD音乐
+host-suffix, 良心云.com, proxy           # 良心云
+host-suffix, kitty.fo, proxy             # 机场
+host-suffix, yfamilys.com, proxy         # 规则
+host-suffix, tgtodrive.top, proxy        # 网盘整理
