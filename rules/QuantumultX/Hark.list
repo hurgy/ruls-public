@@ -1,5 +1,5 @@
 # Hark Pro
 # 更新时间：2026-11-05
 
-HOST-SUFFIX,hark.com
-HOST-SUFFIX,hark.ai
+HOST-SUFFIX,hark.com, proxy
+HOST-SUFFIX,hark.ai, proxy
