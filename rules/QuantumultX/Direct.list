@@ -1,4 +1,4 @@
-host-suffix, ycoo.net #书源
-host-suffix, wcloud.me #机场
-host-suffix, logi.com
-host-suffix, epicgames.com
+host-suffix, ycoo.net, proxy
+host-suffix, wcloud.me, proxy
+host-suffix, logi.com, proxy
+host-suffix, epicgames.com, proxy
