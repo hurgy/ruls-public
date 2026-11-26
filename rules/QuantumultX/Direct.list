@@ -1,4 +1,5 @@
-host-suffix, ycoo.net, proxy
-host-suffix, wcloud.me, proxy
-host-suffix, logi.com, proxy
-host-suffix, cmpassport.com, proxy
+host-suffix, ycoo.net, direct
+host-suffix, wcloud.me, direct
+host-suffix, logi.com, direct
+host-suffix, cmpassport.com, direct
+host-suffix, taotu.ink, direct
